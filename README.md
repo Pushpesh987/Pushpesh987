@@ -37,6 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="androidStudio" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/768px-Blender_logo_no_text.svg.png?20210507122249" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
   <img src="https://play-lh.googleusercontent.com/yAS9WJJnjlCx77RxIvJSssrixhCdUxnBlM3CuPnQpl8QI3Ez19KreBL4xREc1gtmK_Y=w240-h480-rw" title="Onshape" alt="onshape" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Aurdino" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;

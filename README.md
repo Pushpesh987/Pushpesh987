@@ -44,10 +44,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png)" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/html-5728485-4781249.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   
 
 

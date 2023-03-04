@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.shutterstock.com/image-vector/hello-world-code-illustration-coding-concept-1239139120" height="200"/>
+  <img src="https://i0.wp.com/augustopontin.com.br/wp-content/uploads/2020/02/hello_world.gif?resize=700%2C300&ssl=1" height="200"/>
 </p>
 
 <h1 align="center">

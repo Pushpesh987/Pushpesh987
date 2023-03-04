@@ -50,8 +50,8 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://www.php.net/images/logos/new-php-logo.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-5-1175140.png?f=avif&w=256" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   
 
 

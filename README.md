@@ -50,8 +50,8 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://www.php.net/images/logos/new-php-logo.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" title="NodeJS" alt="NodeJS" width="80" height="40"/>&nbsp;
   
 
 
@@ -62,5 +62,5 @@
 ---
 
 ### My Stats :
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Pushpesh987&theme=github-dark-blue&hide_border=true" alt="Ashish6298"/>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Pushpesh987&theme=github-dark-blue&hide_border=true" alt="Pushpesh987"/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pushpesh987&theme=github_dark&show_icons=true&count_private=true&hide_border=true"/>

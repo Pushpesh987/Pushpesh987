@@ -64,4 +64,4 @@
 
 ### My Stats :
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Pushpesh987&theme=github-dark-blue&hide_border=true" alt="Pushpesh987"/>
-<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pushpesh987&theme=github_dark&show_icons=true&count_private=true&hide_border=true"/>
+<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pushpesh987&theme=github-dark&show_icons=true&count_private=true&hide_border=true"/>

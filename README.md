@@ -46,7 +46,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="[https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png](https://thumbnail.imgbin.com/10/21/21/imgbin-kivy-python-cross-platform-android-android-KX6SEP59H5q4t1Q7x8L8ArA3J_t.jpg)" title="Kivy" alt="Kivy" width="40" height="40"/>&nbsp;
+  <img src="https://thumbnail.imgbin.com/10/21/21/imgbin-kivy-python-cross-platform-android-android-KX6SEP59H5q4t1Q7x8L8ArA3J_t.jpg" title="Kivy" alt="Kivy" width="40" height="40"/>&nbsp;
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/html-5728485-4781249.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;

@@ -54,7 +54,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" title="MongoDb" alt="MongoDb" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" title="NodeJS" alt="NodeJS" width="80" height="40"/>&nbsp;
-  <img src="https://iotbyhvm.ooo/wp-content/uploads/2019/01/expressjs.png" title="NodeJS" alt="NodeJS" width="80" height="40"/>&nbsp;
+  <img src="https://iotbyhvm.ooo/wp-content/uploads/2019/01/expressjs.png" title="ExpressJS" alt="ExpressJS" width="80" height="40"/>&nbsp;
   
 
 

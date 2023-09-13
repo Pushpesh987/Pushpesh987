@@ -26,6 +26,10 @@
   <a href="https://twitter.com/krpushpesh108">
     <img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
   </a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pushpesh987&label=Profile%20views&color=0e75b6&style=flat" alt="pushpesh" /> </p>
+<!-- <hr> -->
+  
 </div>
 
 ---

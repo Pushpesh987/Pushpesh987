@@ -53,6 +53,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*5-aoK8IBmXve5whBQM90GA.png" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://dart.dev/assets/shared/dart-logo-for-shares.png?2" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://cdn3d.iconscout.com/3d/free/thumb/html-5728485-4781249.png" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;

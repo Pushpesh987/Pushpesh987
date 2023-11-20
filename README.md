@@ -71,3 +71,4 @@
 ### My Stats :
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Pushpesh987&theme=github-dark-blue&hide_border=true" alt="Pushpesh987"/>
 <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pushpesh987&theme=github-dark-blue&show_icons=true&count_private=true&hide_border=true"/>
+<img style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pushpesh987&show_icons=true&locale=en&layout=compact" alt="Pushpesh Kumar" />

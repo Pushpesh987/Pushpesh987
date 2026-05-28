@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <b>App Developer · Web Developer · Data Analyst</b><br/>
+  <b>App Developer · Data Analyst</b><br/>
   <i>Building applications, crafting experiences, and turning raw data into business decisions.</i>
 </p>
 

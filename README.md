@@ -7,8 +7,8 @@
 </h1>
 
 <p align="center">
-  <b>App Developer · Data Analyst</b><br/>
-  <i>Building applications, crafting experiences, and turning raw data into business decisions.</i>
+  <b>Data Scientist • AI/ML Engineer • Full Stack App Developer</b><br/>
+  <i>Turning ideas into intelligent applications through AI, Machine Learning, and Data.</i>
 </p>
 
 <p align="center">
@@ -26,39 +26,43 @@
 
 ---
 
-#### About Me :
+## 👋 About Me
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a technology enthusiast from India.
+- 🇮🇳 Technology enthusiast from India
 
-- 🎓 B.E. — Computer Science & Engineering (Data Science), Sahyadri College of Engineering and Management, Mangaluru (2021–2025)
+- 🤖 Building end-to-end AI, Machine Learning, NLP, and Data Analytics solutions
 
-- 📊 Data Analyst — SQL, Python, Power BI, Excel — 15 end-to-end analytics projects
+- 📊 Developed 15+ Data Science, Analytics & Business Intelligence projects
 
-- 📱 App Developer — Flutter, Dart, Firebase — 3 production apps delivered
+- 📱 Built cross-platform mobile applications using Flutter & Firebase
 
-- :telescope: Intellectually exploring planet Earth.
+- 🎯 Passionate about solving real-world business problems with AI and data
+
+- 🌱 Currently exploring LLMs, Generative AI, Agentic AI, and MLOps
 
 ---
 
-### 📊 Data Analyst Portfolio
-
-> **15 end-to-end analytics projects** spanning Excel, Power BI, and Python — covering sales, finance, risk, NLP, HR, sports, music, e-commerce, food delivery, real estate, banking, and transportation analytics.
+## 🚀 Featured Portfolios
 
 <p align="center">
-  <a href="https://github.com/Pushpesh987/Pushpesh987-Data-Analyst-Portfolio-/blob/main/README.md">
-    <img src="https://img.shields.io/badge/📁_Data_Analyst_Portfolio-View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Data Analyst Portfolio"/>
-  </a>
-  <a href="https://www.crio.do/learn/portfolio/pushpeshkumar903/">
-    <img src="https://img.shields.io/badge/🎓_Crio_Portfolio-View_Projects-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Crio Portfolio"/>
-  </a>
-</p>
 
-**Highlights:**
-- 💰 **$55M+ revenue analyzed** across credit card, banking, and financial risk dashboards (Power BI)
-- 🤖 **193K+ reviews** analyzed using NLP sentiment analysis (Python, TextBlob, VADER)
-- 📈 **10,000 Monte Carlo simulations** for mutual fund portfolio optimization (SciPy)
-- 👥 **$8M/year projected savings** from employee attrition root cause analysis (Excel)
-- 🛒 **$22M food delivery** and **$2M e-commerce** MIS dashboards with automated KPI tracking
+<a href="YOUR_DATA_PORTFOLIO">
+<img src="https://img.shields.io/badge/🤖_AI_&_Data_Science_Portfolio-View_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="YOUR_APP_DEVELOPMENT_REPO">
+<img src="https://img.shields.io/badge/📱_Flutter_Apps-View_Projects-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+</a>
+
+<a href="https://www.crio.do/learn/portfolio/pushpeshkumar903/">
+
+<img src="https://img.shields.io/badge/🎓_Crio_Portfolio-View_Projects-4285F4?style=for-the-badge"/>
+
+</a>
+
+</p>
 
 ---
 
